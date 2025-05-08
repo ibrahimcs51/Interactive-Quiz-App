@@ -16,6 +16,11 @@ const questions = [
         correctAnswer: 2
     },
     {
+        question:"SMIT Stand for ?",
+        options:["saylni ","samll","non"],
+        correctAnswer:1
+    },
+    {
         question: "Which language runs in a web browser?",
         options: ["Java", "C", "Python", "JavaScript"],
         correctAnswer: 3
