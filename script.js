@@ -26,6 +26,11 @@ const questions = [
         correctAnswer: 3
     },
     {
+      Question:" What is the largest planet  our solar system?",
+       options: ["Earth", "Saturn", "Jupiter", "Neptune"],
+       correctAnswer: 2 
+    },
+    {
         question: "What does HTML stand for?",
         options: [
             "Hyper Text Markup Language",
