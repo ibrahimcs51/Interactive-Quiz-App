@@ -31,6 +31,19 @@ const questions = [
        correctAnswer: 2 
     },
     {
+        Question: "What is the largest planet in our solar system?",
+        options: ["Earth", "Saturn", "Jupiter", "Neptune"],
+       correctAnswer: 2 
+
+    },
+    {
+          Question: "What is the smallest unit of data in computing?",
+          Options: ["Byte", "Bit", "Kilobyte", "Megabyte"],
+          correctAnswer: 1 
+
+
+    },
+    {
         question: "What does HTML stand for?",
         options: [
             "Hyper Text Markup Language",
