@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuizMaster</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>QuizMaster <span>🧠</span></h1>
+        
+        <div class="quiz-header">
+            <div class="score">Score: <span id="score">0</span></div>
+            <div class="progress-bar">
+                <div id="progress"></div>
+            </div>
+        </div>
+
+        <div id="question-container">
+            <h2 id="question">Question goes here</h2>
+            <div id="options" class="options">
+                <!-- Options will be inserted by JavaScript -->
+            </div>
+        </div>
+
+        <button id="next-btn" class="next-btn">Next Question</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
