@@ -106,9 +106,9 @@ function selectAnswer(selectedIndex) {
 
     nextButton.disabled = false;
 }
-var function(){
-    
-}
+// var function(){
+
+// }
 
 // Next Question
 nextButton.addEventListener('click', () => {
